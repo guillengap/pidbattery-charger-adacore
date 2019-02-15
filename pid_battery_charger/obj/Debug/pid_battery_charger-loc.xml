@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_battery_charger\pid_battery_charger.gpr</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 24" line=" 8" >
+      <vfs_project />
+      <vfs_file>C:\Users\Quetzalcoatl\Documents\ADA micro\Ada_Drivers_Library-master\arch\ARM\STM32\driver_demos\pid_battery_charger\pid_battery_charger.gpr</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
